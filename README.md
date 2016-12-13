@@ -1,5 +1,5 @@
 # vue-admin
 
-\\\\
-vue 后台
-\\\\
+-
+>Vue2.0+Vue-Router2.0+Webpack+bootstrap
+
